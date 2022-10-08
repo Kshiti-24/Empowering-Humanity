@@ -10,7 +10,7 @@ html {
 body {
   font: normal 0.8em "Bellefair", arial, sans-serif;
   background: #f0efe2 url(background.png) repeat;
-  color: #fff;
+  color: rgb(215, 176, 176);
 }
 
 p {
