@@ -2,10 +2,10 @@ html {
   height: 100%;
 }
 
-* {
+/* * {
   margin: 0;
   padding: 0;
-}
+} */
 
 body {
   font: normal 0.8em "Bellefair", arial, sans-serif;
@@ -29,7 +29,7 @@ h4,
 h5,
 h6 {
   font: normal 175% "Bellefair", arial, sans-serif;
-  color: #9932cc;
+  /* color: #9932cc; */
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;
 }
@@ -98,9 +98,9 @@ ul li {
   padding: 0 0 4px 5px;
 }
 
-ol {
+/* ol {
   margin: 8px 0 22px 20px;
-}
+} */
 
 ol li {
   margin: 0 0 11px 0;
