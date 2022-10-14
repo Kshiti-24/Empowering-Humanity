@@ -56,6 +56,7 @@ a,
 a:hover {
   outline: none;
   text-decoration: underline;
+ border-radius: 15px 50px;
   color: #fff;
 }
 
@@ -98,9 +99,9 @@ ul li {
   padding: 0 0 4px 5px;
 }
 
-/* ol {
+ol {
   margin: 8px 0 22px 20px;
-} */
+} 
 
 ol li {
   margin: 0 0 11px 0;
